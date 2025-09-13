@@ -45,7 +45,7 @@ int main()
         {"Dr. Sahal (Maxillofacial Surgeon)", "Dr. Sara (Senior Dental Surgeon)"}};
         
         printf("===============================================================\n");
-        printf("🏥 Welcome to Dental Booking System 🏥\n");
+        printf(" 🦷 Welcome to Dental Booking System 🦷 \n");
         
         printf("================================================================\n");
         
